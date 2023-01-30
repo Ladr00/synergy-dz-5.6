@@ -79,5 +79,6 @@ main()
         {
             printf ("%4i", mas [j] [i]);
         }
+	 printf ("\n");
     }
 }
